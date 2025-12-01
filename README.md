@@ -130,11 +130,11 @@ Edge functions	Secure API routing
 This project is licensed under the MIT License.
 
 ## 📬 Contact
-Project Lead: Harsh Wardhan
+Project Lead: Keshav Garg
 
-Github:-[https://github.com/harshwardhan847/kisan-mitra-Triwizardathon](https://github.com/harshwardhan847/kisan-mitra-Triwizardathon)
+Github:-
 
-Live link:-[https://kisan-mitra-triwizardathon.vercel.app/](https://kisan-mitra-triwizardathon.vercel.app/)
+Live link:-
 
 ```
 Built with ❤️ by Aura Grow Team for empowering Indian farmers with AI.
