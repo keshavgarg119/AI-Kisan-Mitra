@@ -648,7 +648,7 @@ export default function Home() {
 
           <div className="border-t border-emerald-500/20 mt-8 pt-8 text-center">
             <p className="text-emerald-200/70">
-              © 2024 Kisan Mitra. Built with ❤️ for Indian farmers.
+              © 2025 Kisan Mitra. Built with ❤️ for Indian farmers.
             </p>
           </div>
         </div>
