@@ -134,7 +134,7 @@ Project Lead: Keshav Garg
 
 Github:- https://github.com/keshavgarg119/AI-Kisan-Mitra
 
-Live link:- https://ai-kisan-mitra-udns.vercel.app
+Live link:- https://ai-kisan-mitra-new.vercel.app
 
 ```
 Built with ❤️ by Aura Grow Team for empowering Indian farmers with AI.
